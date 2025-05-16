@@ -119,25 +119,25 @@ table
 ```
 {
   "Indonesia": {
-    "head_of_state": "Joko Widodo",
+    "head_of_state": "Prabowo Subianto",
     "population": 273753191,
     "area_in_km2": 1904569,
     "capital": "Jakarta"
   },
   "Myanmar": {
-    "head_of_state": "Myint Swe",
+    "head_of_state": "Min Aung Hlaing",
     "population": 53798084,
     "area_in_km2": 676578,
     "capital": "Nay Pyi Taw"
   },
   "Thailand": {
-    "head_of_state": "Maha Vajiralongkorn",
+    "head_of_state": "Paetongtarn Shinawatra",
     "population": 71601103,
     "area_in_km2": 513120,
     "capital": "Bangkok"
   },
   "Vietnam": {
-    "head_of_state": "Maha Vajiralongkorn",
+    "head_of_state": "Lương Cường",
     "population": 97468029,
     "area_in_km2": 331210,
     "capital": "Hanoi"
